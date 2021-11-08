@@ -1,2 +1,2 @@
 # BugTracker-Pandaria
-Site to report BUGS / BUGS / XPLOITS of the Server... Server: Sitio para reportar BUGS/FALLOS/XPLOITS del Servidor
+Site to report BUGS/FAULTS of the Server... Server: Sitio para reportar BUGS/FALLOS del Servidor
